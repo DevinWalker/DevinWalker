@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devin Walker</h1>
 
-<p align="left">Co-founder of GiveWP // Huge fan of digital comments // // Cat dude</p>
-
+<h3 align="center">Co-founder of GiveWP // Huge fan of digital comments // Cat dude</h3>
+<br />
 <p align="left"> <a href="https://twitter.com/innerwebs" target="blank"><img src="https://img.shields.io/twitter/follow/innerwebs?logo=twitter&style=for-the-badge" alt="innerwebs" /></a> </p>
 
 - 🔭 I’m currently working on [GiveWP](https://github.com/impress-org/givewp)
