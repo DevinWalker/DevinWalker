@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devin Walker</h1>
-<h3 align="center">I build sustainable and responsible payment products that help the world. I oversee and write the development of code that is actively used on millions of websites worldwide.</h3>
 
-<p align="left">Co-founder of GiveWP, acquired by Liquid Web in May 2021 // Huge fan of Stripe and payment processing // Cat dude</p>
+<p align="left">Co-founder of GiveWP // Huge fan of digital comments // // Cat dude</p>
 
 <p align="left"> <a href="https://twitter.com/innerwebs" target="blank"><img src="https://img.shields.io/twitter/follow/innerwebs?logo=twitter&style=for-the-badge" alt="innerwebs" /></a> </p>
 
