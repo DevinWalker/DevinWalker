@@ -4,9 +4,9 @@
 <br />
 <p align="left"> <a href="https://twitter.com/innerwebs" target="blank"><img src="https://img.shields.io/twitter/follow/innerwebs?logo=twitter&style=for-the-badge" alt="innerwebs" /></a> </p>
 
-- 🌎 My website [Devin.org][https://devin.org].
+- 🌎 My website [Devin.org](https://devin.org).
 
-- 🔭 I’m currently working on [StellarWP][https://stellarwp.com].
+- 🔭 I’m currently working on [StellarWP](https://stellarwp.com).
 
 - I am best known for [GiveWP](https://github.com/impress-org/givewp)
 
