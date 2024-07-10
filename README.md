@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Devin Walker</h1>
 
-<h3 align="center">Co-founder of GiveWP // Fan of digital commerce // Cat dude</h3>
+<h3 align="center">Co-founder of GiveWP // SVP StellarWP // Cat Guy</h3>
 <br />
 <p align="left"> <a href="https://twitter.com/innerwebs" target="blank"><img src="https://img.shields.io/twitter/follow/innerwebs?logo=twitter&style=for-the-badge" alt="innerwebs" /></a> </p>
 
-- 🔭 I’m currently working on [GiveWP](https://github.com/impress-org/givewp)
+- 🌎 My website [Devin.org][https://devin.org].
+
+- 🔭 I’m currently working on [StellarWP][https://stellarwp.com].
+
+- I am best known for [GiveWP](https://github.com/impress-org/givewp)
 
 - 📝 I regularly write articles on [https://devin.org](https://devin.org)
 
 - 💬 Ask me about **partnerships, acquisitions, collaboration, and more!**
 
-- ⚡ Fun fact **I'm a always hiring**
+- ⚡ Come Work with Me **I'm a always hiring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
