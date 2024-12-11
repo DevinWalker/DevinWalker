@@ -10,7 +10,7 @@
 
 - I am best known for [GiveWP](https://github.com/impress-org/givewp)
 
-- 📝 I regularly write articles on [https://devin.org](https://devin.org)
+- 📝 I regularly write articles on [my blog](https://devin.org/blog)
 
 - 💬 Ask me about **partnerships, acquisitions, collaboration, and more!**
 
