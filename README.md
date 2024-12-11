@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devin Walker</h1>
+<h1 align="center">Hi 👋, I'm Devin,</h1>
 
 <h3 align="center">Co-founder of GiveWP // SVP StellarWP // Cat Guy</h3>
 <br />
