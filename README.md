@@ -6,7 +6,7 @@
 
 - 🌎 My website [Devin.org](https://devin.org).
 
-- 🔭 I’m currently working on [StellarWP](https://stellarwp.com).
+- 🔭 I’m currently working on [WP Rollback](https://wprollback.com).
 
 - I am best known for [GiveWP](https://github.com/impress-org/givewp)
 
@@ -14,11 +14,9 @@
 
 - 💬 Ask me about **partnerships, acquisitions, collaboration, and more!**
 
-- ⚡ Come Work with Me **I'm a always hiring**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/innerwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innerwebs" height="30" width="40" /></a>
+<a href="https://x.com/innerwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innerwebs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devin-walker-🚀-883023a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin-walker-🚀-883023a" height="30" width="40" /></a>
 </p>
 
